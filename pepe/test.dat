@@ -1,0 +1,8 @@
+[INIT]
+Cant=1
+
+[S1]
+Desc=Localhost
+IP=localhost
+PJ=5028
+Mundo=Alkon
